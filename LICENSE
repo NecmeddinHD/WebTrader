@@ -204,77 +204,77 @@
 
 
 
-Apache Lisansı
-Sürüm 2.0, Ocak 2004
-http://www.apache.org/licenses/
+                                              Apache Lisansı
+                                          Sürüm 2.0, Ocak 2004
+                                     http://www.apache.org/licenses/
 
-KULLANIM, ÇOĞALTMA VE DAĞITIM ŞARTLARI
-1. Tanımlar
-"Lisans", bu belgenin 1'den 9'a kadar olan bölümlerinde tanımlanan kullanım, çoğaltma ve dağıtım şartlarını ifade eder.
+  KULLANIM, ÇOĞALTMA VE DAĞITIM ŞARTLARI
+  1. Tanımlar
+     "Lisans", bu belgenin 1'den 9'a kadar olan bölümlerinde tanımlanan kullanım, çoğaltma ve dağıtım şartlarını ifade eder.
+    
+    "Lisans Veren", telif hakkı sahibi veya telif hakkı sahibinin yetkilendirdiği kişi/kuruluş anlamına gelir.
 
-"Lisans Veren", telif hakkı sahibi veya telif hakkı sahibinin yetkilendirdiği kişi/kuruluş anlamına gelir.
+    "Yasal Varlık", bir kuruluş ile onu kontrol eden, onun tarafından kontrol edilen veya onunla ortak kontrol altında olan
+    diğer tüm kuruluşların birliğini ifade eder.
+  
+    "Siz" (ya da "Sizin"), bu Lisans tarafından verilen izinleri kullanan birey veya Yasal Varlığı ifade eder.
 
-"Yasal Varlık", bir kuruluş ile onu kontrol eden, onun tarafından kontrol edilen veya onunla ortak kontrol altında olan
-diğer tüm kuruluşların birliğini ifade eder.
+    "Kaynak" form, değişiklik yapmaya en uygun hali (örn: kaynak kodu, dokümantasyon, yapılandırma dosyaları).
 
-"Siz" (ya da "Sizin"), bu Lisans tarafından verilen izinleri kullanan birey veya Yasal Varlığı ifade eder.
+    "Nesne" form, Kaynak formun derlenmiş hali (örn: derlenmiş kod, üretilmiş doküman, medya dönüşümleri).
 
-"Kaynak" form, değişiklik yapmaya en uygun hali (örn: kaynak kodu, dokümantasyon, yapılandırma dosyaları).
+    "Eser", Lisans kapsamında sunulan kaynak veya nesne formundaki eser.
 
-"Nesne" form, Kaynak formun derlenmiş hali (örn: derlenmiş kod, üretilmiş doküman, medya dönüşümleri).
+    "Türev Eserler", Eser'den türetilmiş tüm işlerdir.
 
-"Eser", Lisans kapsamında sunulan kaynak veya nesne formundaki eser.
+    "Katkı", telif hakkı sahibinin izniyle Eser’e eklenmek üzere gönderilen her türlü içeriktir.
 
-"Türev Eserler", Eser'den türetilmiş tüm işlerdir.
+    "Katkıda Bulunan", Eser’e katkı sunmuş kişi ya da kuruluşlardır.
 
-"Katkı", telif hakkı sahibinin izniyle Eser’e eklenmek üzere gönderilen her türlü içeriktir.
+  2. Telif Hakkı Lisansı Verme
+    Katkıda bulunan herkes, bu Lisans kapsamında dünya çapında, geri alınamaz, ücretsiz bir şekilde Eser'i ve Türevlerini 
+    çoğaltma, dağıtma, kamuya sunma, alt lisanslama hakkını verir.
 
-"Katkıda Bulunan", Eser’e katkı sunmuş kişi ya da kuruluşlardır.
+  3. Patent Lisansı Verme
+    Katkıda bulunanlar, kendi katkılarından doğan zorunlu patentleri de kapsayacak şekilde, dünya çapında, geri alınamaz,
+    ücretsiz bir patent lisansı verir. Ancak siz bir patent davası açarsanız, bu haklar sona erer.
 
-2. Telif Hakkı Lisansı Verme
-Katkıda bulunan herkes, bu Lisans kapsamında dünya çapında, geri alınamaz, ücretsiz bir şekilde Eser'i ve Türevlerini 
-çoğaltma, dağıtma, kamuya sunma, alt lisanslama hakkını verir.
+  4. Yeniden Dağıtım
+    Eseri ya da Türevlerini dağıtabilirsiniz, ancak şu koşulları sağlamalısınız:
+  
+      a. Bu Lisans'ın bir kopyasını eklemelisiniz.
+      b. Değişiklik yaptığınız dosyaları açıkça belirtmelisiniz.
+      c. Telif, patent, ticari marka ve atıf bilgilerini korumalısınız.
+      d. Eser ile birlikte gelen NOTICE dosyasını da eklemelisiniz (varsa).
+  
+    Ayrıca kendi telif ve lisans bilgilerinizi ekleyebilirsiniz, fakat bu Lisansı değiştiremezsiniz.
 
-3. Patent Lisansı Verme
-Katkıda bulunanlar, kendi katkılarından doğan zorunlu patentleri de kapsayacak şekilde, dünya çapında, geri alınamaz,
-ücretsiz bir patent lisansı verir. Ancak siz bir patent davası açarsanız, bu haklar sona erer.
+  5. Katkıların Gönderilmesi
+    Aksi belirtilmediği sürece, yapılan her katkı bu Lisans kapsamındadır.
 
-4. Yeniden Dağıtım
-Eseri ya da Türevlerini dağıtabilirsiniz, ancak şu koşulları sağlamalısınız:
+  6. Ticari Markalar
+    Bu Lisans, lisans verenin ticari isim, marka veya hizmet adlarının kullanılmasına izin vermez.
 
-a. Bu Lisans'ın bir kopyasını eklemelisiniz.
-b. Değişiklik yaptığınız dosyaları açıkça belirtmelisiniz.
-c. Telif, patent, ticari marka ve atıf bilgilerini korumalısınız.
-d. Eser ile birlikte gelen NOTICE dosyasını da eklemelisiniz (varsa).
+  7. Garanti Reddi
+    Yasaların zorunlu kıldığı durumlar dışında, Eser "OLDUĞU GİBİ" sunulmuştur. Herhangi bir garanti verilmemektedir.
 
-Ayrıca kendi telif ve lisans bilgilerinizi ekleyebilirsiniz, fakat bu Lisansı değiştiremezsiniz.
+  8. Sorumluluğun Sınırlandırılması
+    Hiçbir Katkıda Bulunan, bu lisans nedeniyle doğabilecek doğrudan, dolaylı, özel, rastlantısal veya diğer herhangi bir zarardan 
+    sorumlu tutulamaz.
 
-5. Katkıların Gönderilmesi
-Aksi belirtilmediği sürece, yapılan her katkı bu Lisans kapsamındadır.
+  9. Ek Yükümlülükler
+    Eseri yeniden dağıtırken, destek, garanti, sorumluluk gibi ek hak ve yükümlülükler teklif edebilirsiniz ama yalnızca kendi 
+    adınıza ve diğer katkı sağlayanları sorumlu tutmadan.
 
-6. Ticari Markalar
-Bu Lisans, lisans verenin ticari isim, marka veya hizmet adlarının kullanılmasına izin vermez.
+                      Telif Hakkı [2025] [NecmeddinHD]
 
-7. Garanti Reddi
-Yasaların zorunlu kıldığı durumlar dışında, Eser "OLDUĞU GİBİ" sunulmuştur. Herhangi bir garanti verilmemektedir.
+  Bu dosya, Apache Lisansı, Sürüm 2.0 (“Lisans”) kapsamında lisanslanmıştır;
+            Lisans koşullarına uymadıkça bu dosyayı kullanamazsınız.
+               Lisansın bir kopyasını şu adresten edinebilirsiniz:
 
-8. Sorumluluğun Sınırlandırılması
-Hiçbir Katkıda Bulunan, bu lisans nedeniyle doğabilecek doğrudan, dolaylı, özel, rastlantısal veya diğer herhangi bir zarardan 
-sorumlu tutulamaz.
+                  http://www.apache.org/licenses/LICENSE-2.0
 
-9. Ek Yükümlülükler
-Eseri yeniden dağıtırken, destek, garanti, sorumluluk gibi ek hak ve yükümlülükler teklif edebilirsiniz ama yalnızca kendi 
-adınıza ve diğer katkı sağlayanları sorumlu tutmadan.
-
-Telif Hakkı [2025] [NecmeddinHD]
-
-Bu dosya, Apache Lisansı, Sürüm 2.0 (“Lisans”) kapsamında lisanslanmıştır;
-Lisans koşullarına uymadıkça bu dosyayı kullanamazsınız.
-Lisansın bir kopyasını şu adresten edinebilirsiniz:
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Yasal zorunluluk olmadıkça veya yazılı bir şekilde kabul edilmedikçe,
-bu lisans kapsamındaki yazılım “OLDUĞU GİBİ” sunulmaktadır;
-AÇIK VEYA ZIMNİ HİÇBİR GARANTİ VERİLMEMEKTEDİR.
-Lisans kapsamındaki izinleri ve sınırlamaları görmek için yukarıdaki bağlantıya bakın.
+       Yasal zorunluluk olmadıkça veya yazılı bir şekilde kabul edilmedikçe,
+          bu lisans kapsamındaki yazılım “OLDUĞU GİBİ” sunulmaktadır;
+                AÇIK VEYA ZIMNİ HİÇBİR GARANTİ VERİLMEMEKTEDİR.
+  Lisans kapsamındaki izinleri ve sınırlamaları görmek için yukarıdaki bağlantıya bakın.
