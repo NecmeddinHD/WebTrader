@@ -1,2 +1,3 @@
 #First set your chat id
-pyinstaller --onefile --noconsole --add-data config.py --name WebTrader main.py
+import os
+os.system("pyinstaller --onefile --noconsole --add-data config.py --name WebTrader main.py")
