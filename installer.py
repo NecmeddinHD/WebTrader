@@ -1,3 +1,4 @@
 #First set your chat id
-pip install pyperclip
-pip install pyinstaller
+import os
+os.system(pip install pyperclip)
+os.system(pip install pyinstaller)
