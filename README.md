@@ -1,7 +1,7 @@
 # WebTrader
 You can quickly open websites from your computer on your phone or tablet.
 
-#EN  Telegram Web Transfer
+# EN  Telegram Web Transfer
 
 **Telegram** allows you to transfer websites from your computer to your phone. 
 
@@ -16,7 +16,7 @@ If you know how to run Python on your phone and have Telegram installed on your 
 ## TIP:
 If you right-click on a YouTube video from your computer and copy the video URL with the timestamp, you can continue from where you left off directly on your phone. If you don't do this, it will behave as if you clicked from the past, and while it may not be exact, you'll continue a few seconds behind the point where you left off.
 
-#TR  Telegram Web Transfer
+# TR  Telegram Web Transfer
 
 **Telegram** aracılığıyla bilgisayarınızdaki web sitelerini telefonunuza aktarabilirsiniz.
 
