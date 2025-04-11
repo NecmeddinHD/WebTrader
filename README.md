@@ -7,10 +7,11 @@ You can quickly open websites from your computer on your phone or tablet.
 
 ## USAGE:
 1. Download The Package with git or click code and press download zip.
-2. Change the `chatid` variable in the `config.py` file with the ID you get from the `userinfobot` Telegram bot. 
-3. Then, run the program and copy the URL of the website you want to share. 
-4. The Telegram bot will send the link to you directly via Telegram.
-5. You can click on this link and watch it from your phone or tablet.
+2. Run installer.py wth `python installer.py`
+3. Change the `chatid` variable in the `config.py` file with the ID you get from the `userinfobot` Telegram bot. 
+4. Then, run the program and copy the URL of the website you want to share. 
+5. The Telegram bot will send the link to you directly via Telegram.
+6. You can click on this link and watch it from your phone or tablet.
 
 If you know how to run Python on your phone and have Telegram installed on your computer, you can copy the video URL from your phone and transfer it to your computer. This way, you can use it more comfortably.
 
@@ -23,10 +24,11 @@ If you right-click on a YouTube video from your computer and copy the video URL 
 
 ## KULLANIM:
 1. Paketi Git clone kullanarak veya sağ üstteki yeşil code butonuna tıklayıp download zip tuşuna basarak indirin.
-2. `config.py` dosyasındaki `chatid` değişkenini `userinfobot` Telegram botu aracılığıyla öğrendiğiniz ID ile değiştirin.
-3. Sonra paylaşmak istediğiniz web sitesinin URL'sini kopyalayıp programı açın.
-4. Telegram botu, linki size direkt olarak Telegram üzerinden gönderecek.
-5. Bu linke tıklayarak telefonunuzdan veya tabletinizden yaptığınız işe devam edebilirsiniz.
+2. installer.py i `python installer.py` komutu ile çalıştırın
+3. `config.py` dosyasındaki `chatid` değişkenini `userinfobot` Telegram botu aracılığıyla öğrendiğiniz ID ile değiştirin.
+4. Sonra paylaşmak istediğiniz web sitesinin URL'sini kopyalayıp programı açın.
+5. Telegram botu, linki size direkt olarak Telegram üzerinden gönderecek.
+6. Bu linke tıklayarak telefonunuzdan veya tabletinizden yaptığınız işe devam edebilirsiniz.
 
 Eğer telefonda Python çalıştırmayı biliyorsanız ve bilgisayarınızda Telegram varsa, telefonunuzdaki videonun URL'sini kopyalayıp bilgisayarınıza aktarabilirsiniz. Böylece daha rahat bir şekilde kullanabilirsiniz.
 
