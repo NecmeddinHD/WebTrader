@@ -34,5 +34,5 @@ Eğer telefonda Python çalıştırmayı biliyorsanız ve bilgisayarınızda Tel
 
 ## TÜYO:
 Eğer bilgisayarınız üzerinden bir YouTube videosuna sağ tıklayıp videonun URL'sini süresiyle birlikte kopyalarsanız, telefondan direkt kaldığınız yerden devam edersiniz. Eğer bunu yapmazsanız, geçmişten tıklamış gibi olur ve tam olarak olmasa da kaldığınız yere birkaç saniye geriden devam edersiniz ayrıca eğer isterseniz exemaker ı çalıştırarak exe dosyası yapa bilirsiniz.
-### NecmeddinHD Tarafından Yapılmıştır
+## NecmeddinHD Tarafından Yapılmıştır
 ![ChatGPT Image 7 Nis 2025 16_39_01](https://github.com/user-attachments/assets/b3cd64af-75b2-488f-a967-0e3de3cce00a)
